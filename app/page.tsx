@@ -1,5 +1,5 @@
 // rafce
-const page = async() => {
+const page = () => {
   return (
     <div>
       <h1>HOMEPAGE</h1>
